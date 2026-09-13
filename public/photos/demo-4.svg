@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img'>
+<rect width='800' height='600' fill='#dde5e1'/>
+<g fill='#0e3729' opacity='0.13'>
+<rect x='79' y='310.5' width='189' height='289.5'/>
+<rect x='269' y='249' width='200' height='351'/>
+<rect x='470' y='319.5' width='159.5' height='280.5'/>
+<rect x='653' y='289' width='130' height='311'/>
+</g>
+<g fill='#0e3729' opacity='0.24'>
+<path d='M269 249 L369 179 L469 249 Z'/>
+<path d='M470 319.5 L549.75 264.5 L629.5 319.5 Z'/>
+</g>
+<g fill='#0e3729' opacity='0.1'>
+<rect x='299' y='309' width='36' height='50'/><rect x='359' y='309' width='36' height='50'/>
+<rect x='299' y='394' width='36' height='50'/><rect x='359' y='394' width='36' height='50'/>
+<rect x='114' y='370.5' width='38' height='54'/><rect x='174' y='370.5' width='38' height='54'/>
+</g>
+<rect x='0' y='545' width='800' height='55' fill='#0e3729' opacity='0.07'/>
+
+</svg>
