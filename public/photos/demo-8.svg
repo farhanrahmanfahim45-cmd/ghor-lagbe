@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img'>
+<rect width='800' height='600' fill='#e2e8e4'/>
+<g fill='#1c6149' opacity='0.13'>
+<rect x='131' y='284.5' width='241' height='315.5'/>
+<rect x='321' y='301' width='200' height='299'/>
+<rect x='470' y='345.5' width='185.5' height='254.5'/>
+<rect x='670.3333333333334' y='341' width='130' height='259'/>
+</g>
+<g fill='#1c6149' opacity='0.24'>
+<path d='M321 301 L421 231 L521 301 Z'/>
+<path d='M470 345.5 L562.75 290.5 L655.5 345.5 Z'/>
+</g>
+<g fill='#1c6149' opacity='0.1'>
+<rect x='351' y='361' width='36' height='50'/><rect x='411' y='361' width='36' height='50'/>
+<rect x='351' y='446' width='36' height='50'/><rect x='411' y='446' width='36' height='50'/>
+<rect x='166' y='344.5' width='38' height='54'/><rect x='226' y='344.5' width='38' height='54'/>
+</g>
+<rect x='0' y='545' width='800' height='55' fill='#1c6149' opacity='0.07'/>
+
+</svg>
